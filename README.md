@@ -25,6 +25,8 @@
 
 [คลิปวิธีการสมัคร github](https://youtu.be/C_NNO-MtYVY)
 
+[คลิปวิธีทำ github page](https://youtu.be/ui3a7qdhLzw)
+
 ------------------------------------
 
 Thank you 
